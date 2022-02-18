@@ -8,3 +8,9 @@ Screen1 As screen:
         Y: =40
         ZIndex: =1
 
+    Label2 As label:
+        Text: ="Nouveau Test"
+        X: =40
+        Y: =184
+        ZIndex: =2
+

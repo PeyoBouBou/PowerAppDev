@@ -10,13 +10,13 @@ Screen1 As screen:
 
     Label2 As label:
         Text: ="Nouveau Test et nouvelle modif"
-        X: =40
+        X: =106
         Y: =173
         ZIndex: =2
 
     Label3 As label:
         Text: ="NEW"
-        X: =40
-        Y: =366
+        X: =106
+        Y: =369
         ZIndex: =3
 

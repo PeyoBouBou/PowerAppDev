@@ -1,37 +1,17 @@
 {
   "ComponentIndexes": {},
-  "ControlUniqueIds": {
-    "App": 1,
-    "Label1": 4,
-    "Screen1": 3
-  },
+  "ControlUniqueIds": {},
   "FunctionParamsInvariantScripts": {},
-  "HeaderLastSavedDateTimeUTC": "02/18/2022 08:44:23",
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
   "LocalResourceRootPaths": {},
-  "OldLogoFileName": "f531dfvm.jpg",
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
   "OrderDataSource": {},
   "OrderGroupControls": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {
-    "label": 0
-  },
-  "PublishOrderIndices": {
-    "App": 0,
-    "Label1": 0,
-    "Screen1": 0
-  },
+  "OrderXMLTemplate": {},
+  "PublishOrderIndices": {},
   "ResourcesJsonIndices": {},
-  "TemplateVersions": {},
-  "VolatileProperties": {
-    "AnalysisLoadTime": 0.0471075,
-    "ControlCount": {
-      "screen": 1
-    },
-    "DeserializationLoadTime": 1.536552,
-    "ErrorCount": 0
-  }
+  "TemplateVersions": {}
 }

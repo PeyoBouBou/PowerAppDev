@@ -2,7 +2,7 @@ Screen1 As screen:
 
     Label1 As label:
         Height: =84
-        Text: ="Bonjour " & User().FullName
+        Text: ="Bonjour Mon gars, tu es " & User().FullName
         Width: =452
         X: =40
         Y: =40
